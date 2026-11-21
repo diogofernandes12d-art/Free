@@ -1,1 +1,1 @@
-# Free
+# Free-mcp-server
